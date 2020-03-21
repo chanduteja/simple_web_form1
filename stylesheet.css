@@ -1,0 +1,64 @@
+h1{
+	text-align: center;
+	font-size:50px;
+	font-family:italic;
+}
+body{
+	background-image:url(https://img.jakpost.net/c/2018/11/15/2018_11_15_58724_1542268918._large.jpg);
+	background-size:cover;
+}
+.pat-form{
+	text-align: center;
+	padding:20px 10px 20px 10px;
+	
+	
+}
+.selected{
+	font-size:20px;
+	font-family:serif;
+	font-weight: bold;
+	padding:20px 10px 20px 10px;
+	color:blue;
+}
+.last
+{
+	font-size:20px;
+	font-family:serif;
+	font-weight:bold;
+	padding:20px 10px 20px 10px;
+    color:blue;
+}
+
+.container
+{
+	font-size:20px;
+	font-family:serif;
+	font-weight:bold;
+	padding:20px 10px 20px 10px;
+	color:white;
+}
+
+.age
+{
+	font-size:20px;
+	font-family:serif;
+	font-weight:bold;
+	padding:20px 10px 20px 10px;
+	color:white;
+}
+
+.disease
+{
+	font-size:20px;
+	font-family:serif;
+	font-weight:bold;
+	padding:20px 10px 20px 10px;
+	color:white;
+}
+.btn{
+	font-weight:bold;
+	font-size:50px;
+	padding:20px 10px 20px 10px;
+
+}
+
